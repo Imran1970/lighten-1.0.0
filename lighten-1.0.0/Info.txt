@@ -1,0 +1,33 @@
+Key Features
+
+Bootstrap 4
+HTML5 & CSS3
+Burger Menu
+Hero Header
+Hero Image
+Header Carousel
+On-hover Effect
+Pricing Cards
+100% Responsive
+Contact Form UI
+Top Navigation Bar
+Multipage Design
+Call-to-action Button
+Testimonial Carousels
+SEO-Friendly Codebase
+Cross-Browser Compatible
+Developer-friendly Codebase
+
+In the Box
+5 HTML Pages
+HTML & CSS
+All Demo Images
+JavaScript Source Files
+
+Library & Plugins
+Bootstrap 4
+FontAwesome
+IcoMoon
+FancyBox
+OwlCarousel
+jQuery
